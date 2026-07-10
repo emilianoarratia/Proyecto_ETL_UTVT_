@@ -1,0 +1,1 @@
+Coloca aqui capturas de SQL Server: tablas DimCliente, DimProducto, FactVentas, LogErrores y LogProceso.
