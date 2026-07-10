@@ -1,0 +1,14 @@
+Release 1.0
+Proyecto ETL con SSIS, SQL Server y Git
+Comercializadora UTVT S.A. de C.V.
+
+Contenido:
+- Estructura inicial del proyecto.
+- Script de creación de base de datos DWUTVTVentas.
+- Archivos CSV de entrada.
+- Documentación funcional y técnica.
+- Diccionario de datos.
+- Guía de construcción del paquete CargaVentas.dtsx.
+- Comandos Git sugeridos para historial y ramas.
+
+Nota: El archivo CargaVentas.dtsx incluido funciona como plantilla/documentación base. Para ejecución real se debe abrir Visual Studio/SSDT y construir el paquete SSIS con las conexiones locales del equipo.

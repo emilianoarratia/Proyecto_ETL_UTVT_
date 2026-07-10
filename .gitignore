@@ -1,0 +1,17 @@
+.vs/
+*.dtproj.user
+*.suo
+*.user
+*.tmp
+*.log
+*.bak
+*.zip
+
+# Archivos generados en ejecución (se ignoran pero las carpetas se mantienen)
+data/procesados/*
+data/errores/*
+!data/procesados/.gitkeep
+!data/errores/.gitkeep
+
+# Backup de CSVs originales — NO ignorar (se versiona)
+# data/backup/
